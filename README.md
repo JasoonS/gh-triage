@@ -2,6 +2,14 @@
 
 A small [gh](https://github.com/cli/cli) extension for finding issues to be triaged in a GitHub repository.
 
+## Install
+
+```bash
+samcoe/gh-triage
+```
+
+## Details
+
 This extensions will list any open issues that are not labeled with any of the following labels:
 - p1
 - p2
